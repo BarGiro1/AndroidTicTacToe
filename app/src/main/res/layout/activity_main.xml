@@ -107,4 +107,14 @@
       android:backgroundTint="@android:color/darker_gray"
       android:layout_marginBottom="16dp" />
 
+  <Button
+      android:id="@+id/btnPlayAgain"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Play Again"
+      android:padding="12dp"
+      android:background="@android:color/holo_green_light"
+      android:textColor="@android:color/black"
+      android:visibility="gone" />
+
 </LinearLayout>
